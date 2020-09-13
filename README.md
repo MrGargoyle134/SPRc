@@ -1,3 +1,5 @@
+<img src="Capture.PNG" align="right" />
+
 #### SPRC - A WINDOWS CONSOLE GAMEBOY SPRITE EDITOR.
 
 ## ABOUT
